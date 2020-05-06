@@ -10,7 +10,12 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.FindInGrid" />
   <action id="DatabaseView.CopyAction" />
+  <action id="Debug" />
   <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
