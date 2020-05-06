@@ -1,0 +1,19 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-12-29T13:29:40</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.1.0.0</property>
+    <property name="modified">2018-12-29T16:37:35</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+  </colors>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
