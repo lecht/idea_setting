@@ -9,5 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*mapper.java</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
