@@ -38,6 +38,10 @@
           <option name="url" value="git@git.zoom.us:cloudpbx-op/pbx-qa01-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/byteblogs168/plumemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/community" />
