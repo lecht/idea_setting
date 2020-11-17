@@ -43,7 +43,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/srcrs/BilibiliTask.git" />
+          <option name="url" value="https://github.com/looly/hutool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/crossoverJie/cim.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -51,12 +55,12 @@
     <option name="cloneParentDir" value="$USER_HOME$/community" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ID_ORDER">
+    <option name="COLUMN_ORDER">
       <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
       </list>
     </option>
   </component>
