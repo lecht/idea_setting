@@ -25,14 +25,8 @@
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt right" />
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
@@ -61,6 +55,7 @@
   </action>
   <action id="Run" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
   <action id="SendEOF" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
