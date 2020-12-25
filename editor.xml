@@ -2,6 +2,8 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Menlo" />
+    <option name="LINE_SPACING" value="1.1" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
