@@ -3,6 +3,7 @@
     <option name="TRUSTED_HOSTS">
       <list>
         <option value="github.com/alibaba" />
+        <option value="git.zoom.us/pbx" />
       </list>
     </option>
   </component>
