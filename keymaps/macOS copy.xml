@@ -43,6 +43,9 @@
   <action id="List-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="NavBar-selectEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
