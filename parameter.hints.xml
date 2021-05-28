@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.bouncycastle.crypto.modes.CFBBlockCipher.CFBBlockCipher(cipher,bitBlockSize)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="go" />
+    </disabledLanguages>
+  </component>
+</application>
