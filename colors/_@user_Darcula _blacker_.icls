@@ -3,7 +3,7 @@
     <property name="created">2020-05-19T09:05:47</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2021-08-13T13:45:35</property>
+    <property name="modified">2021-08-17T10:57:37</property>
     <property name="originalScheme">Darcula (blacker)</property>
   </metaInfo>
   <colors>
@@ -29,7 +29,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="909bea" />
+        <option name="FOREGROUND" value="ad7c7c" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
