@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Branch Context group" playSound="true" />
     <notification groupId="Breakpoint hit" displayType="NONE" shouldLog="false" playSound="true" />
+    <notification groupId="Language Plugins Notifications" displayType="NONE" />
   </component>
 </application>
