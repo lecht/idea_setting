@@ -101,9 +101,13 @@
           <option name="url" value="https://github.com/kailuncen/mybatis-cache-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.zoom.us:pbx/op.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/community" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
@@ -112,7 +116,6 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
     <option name="CUSTOM_BOOLEAN_PROPERTIES">
