@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="idea.plugin.protoeditor" />
+        <option value="com.microsoft.tooling.msservices.intellij.azure" />
       </list>
     </option>
   </component>
