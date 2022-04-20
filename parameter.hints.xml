@@ -5,6 +5,8 @@
         <added pattern="org.bouncycastle.crypto.modes.CFBBlockCipher.CFBBlockCipher(cipher,bitBlockSize)" />
       </blacklist>
     </blacklists>
+    <option id="java.enums" value="false" />
+    <option id="java.new.expr" value="false" />
     <disabledLanguages>
       <language id="JAVA" />
       <language id="go" />
