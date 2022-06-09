@@ -4,6 +4,8 @@
       <list>
         <option value="idea.plugin.protoeditor" />
         <option value="com.microsoft.tooling.msservices.intellij.azure" />
+        <option value="aws.toolkit" />
+        <option value="org.dynamodb4idea" />
       </list>
     </option>
   </component>
