@@ -10,10 +10,10 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*mapper.java</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
     <mask>*properties</mask>
     <mask>pom.xml</mask>
+    <mask>*mapper.java</mask>
   </component>
 </application>
