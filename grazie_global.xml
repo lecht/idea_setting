@@ -14,6 +14,7 @@
         <option name="disabled">
           <set>
             <option value="CHINESE" />
+            <option value="ASTURIAN" />
           </set>
         </option>
       </State>
